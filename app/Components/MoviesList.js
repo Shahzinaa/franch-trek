@@ -38,7 +38,7 @@ function MoviesList() {
         ))
       } */}
       
-      {/* <div className='flex flex-row gap-8'>
+      <div className='flex flex-row gap-8'>
         <div className="bg-[url('/images/myfault.jpg')] bg-cover bg-center w-48 h-64 hover:w-96 ease-in-out duration-500"> 
                     <div className='group/overlay flex flex-col gap-10 items-center justify-between py-5 ease-in-out duration-300 text-white h-64 font-medium text-2xl hover:bg-black/75'>
                         <p className='hidden group-hover/overlay:block'> My Fault </p>
@@ -79,7 +79,7 @@ function MoviesList() {
         <div className="bg-[url('/images/myfault.jpg')] bg-cover bg-center w-48 h-64 hover:w-96 ease-in-out duration-500"></div>
         <div className="bg-[url('/images/myfault.jpg')] bg-cover bg-center w-48 h-64 hover:w-96 ease-in-out duration-500"></div>
         <div className="bg-[url('/images/myfault.jpg')] bg-cover bg-center w-48 h-64 hover:w-96 ease-in-out duration-500"></div>
-      </div> */}
+      </div>
     </div>
   )
 }
